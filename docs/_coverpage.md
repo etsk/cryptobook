@@ -1,6 +1,6 @@
-<!-- ![logo](_media/icon.svg) -->
+<!-- ![logo](_media/cryptobook.svg) -->
 
-# cryptobook <small>0.0.1</small>
+# cryptobook <small>v0.0.2</small>
 
 > A simplfied book exploring all cryptocurrencies out there.
 
