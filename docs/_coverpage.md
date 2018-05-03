@@ -5,4 +5,4 @@
 > A simplfied book exploring all cryptocurrencies out there.
 
 [GitHub](https://github.com/etsk/cryptobook)
-[Get Started](https://etsk.github.io/cryptobook/#/?id=purpose)
+[Get Started](#purpose)
