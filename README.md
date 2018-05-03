@@ -1,2 +1,9 @@
-# crypto-handbook
-With the proliferation of Cryptocurrencies in the recent time, this handbook serves as a reference point to the different cryptocurrencies and features/methodologies used in each of them.
+# Cryptobook
+
+This serves as a reference point for all cryptocurrencies there are out there, for quicker reference & simplfied understanding.
+
+Read [here](https://etsk.github.io/cryptobook/)
+
+Pages managed in docs.
+
+Written with [Docsify](https://docsify.js.org/)
