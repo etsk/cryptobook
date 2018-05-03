@@ -2,6 +2,7 @@
 
 # cryptobook <small>0.0.1</small>
 
-> A simple book on cryptocurrencies.
+> A simplfied book exploring all cryptocurrencies out there.
 
 [GitHub](https://github.com/etsk/cryptobook)
+[Get Started](https://etsk.github.io/cryptobook/#/?id=purpose)
